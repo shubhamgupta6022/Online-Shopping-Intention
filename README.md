@@ -17,5 +17,8 @@ Open the terminal in you machine and run the following command to access the web
 streamlit run app.py
 ```
 
+## Screenshot
+![Alt text](/app_screenshot.png?raw=true "Optional Title")
+
 ## Acknowledgements
 [Streamlit](https://www.streamlit.io/), for the open-source library for rapid prototyping.
